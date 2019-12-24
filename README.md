@@ -23,7 +23,3 @@ The Visualization folder contains visual plots. As we can see from the plots, Ma
 ## Model
 
 The Model folder contains the final codes that contribute to price prediction for Airbnb owner, as well as the cleaned dataset to run with it. After running different algorithms including Linear Regression, K Means, Decision Tree, Multiple Regression, we finalize choosing Random Forest Model with highest accuracy ( abt 85%) as our price model.
-
-## Web develop
-
-With the support of Prof, our group run inial Web develop as link http://aec4.com/cis9650/airbnb.py Hosts can use the link and input their available data. Output will be suggested price housing. The details code are inside the Web develop folder.
